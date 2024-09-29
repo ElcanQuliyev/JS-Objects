@@ -1,0 +1,16 @@
+img{
+    width: 200px;
+    height: 200px;
+}
+
+div.flex{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    border: 2px solid black;
+    margin-top: 16px;
+}
+
+h1,p,span{
+    margin: 0px;
+}
